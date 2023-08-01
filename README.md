@@ -17,7 +17,7 @@
 * Pandas | build to DataFrame
 * PySpark & Databricks | [xử lý data và load lên database được tạo sẵn bằng AWS RDS](https://github.com/QuocAnh171/DEProjectScrapySpider/blob/master/newegg_data/newegg_data_ETL.ipynb)
 
-* AWS RDS:
+* Thông tin AWS RDS để kiểm tra dữ liệu:
 
   host = 'database-2.cmfq2wbb1ceg.ap-southeast-1.rds.amazonaws.com'
   
